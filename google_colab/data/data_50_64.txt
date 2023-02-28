@@ -1,0 +1,100 @@
+Epoch 1/50
+95/95 [==============================] - 234s 2s/step - det_loss: 1.0033 - cls_loss: 0.6262 - box_loss: 0.0075 - reg_l2_loss: 0.0049 - loss: 1.0081 - learning_rate: 0.0440 - gradient_norm: 0.9015 - val_det_loss: 0.6519 - val_cls_loss: 0.4019 - val_box_loss: 0.0050 - val_reg_l2_loss: 0.0050 - val_loss: 0.6569
+Epoch 2/50
+95/95 [==============================] - 205s 2s/step - det_loss: 0.5769 - cls_loss: 0.3488 - box_loss: 0.0046 - reg_l2_loss: 0.0052 - loss: 0.5820 - learning_rate: 0.0798 - gradient_norm: 0.8532 - val_det_loss: 0.6720 - val_cls_loss: 0.4109 - val_box_loss: 0.0052 - val_reg_l2_loss: 0.0053 - val_loss: 0.6773
+Epoch 3/50
+95/95 [==============================] - 194s 2s/step - det_loss: 0.5318 - cls_loss: 0.3211 - box_loss: 0.0042 - reg_l2_loss: 0.0055 - loss: 0.5372 - learning_rate: 0.0795 - gradient_norm: 0.8020 - val_det_loss: 0.5721 - val_cls_loss: 0.3238 - val_box_loss: 0.0050 - val_reg_l2_loss: 0.0056 - val_loss: 0.5777
+Epoch 4/50
+95/95 [==============================] - 190s 2s/step - det_loss: 0.5163 - cls_loss: 0.3170 - box_loss: 0.0040 - reg_l2_loss: 0.0057 - loss: 0.5220 - learning_rate: 0.0790 - gradient_norm: 0.7559 - val_det_loss: 0.5368 - val_cls_loss: 0.3126 - val_box_loss: 0.0045 - val_reg_l2_loss: 0.0058 - val_loss: 0.5426
+Epoch 5/50
+95/95 [==============================] - 216s 2s/step - det_loss: 0.4994 - cls_loss: 0.3061 - box_loss: 0.0039 - reg_l2_loss: 0.0059 - loss: 0.5053 - learning_rate: 0.0783 - gradient_norm: 0.6755 - val_det_loss: 0.5296 - val_cls_loss: 0.3165 - val_box_loss: 0.0043 - val_reg_l2_loss: 0.0060 - val_loss: 0.5357
+Epoch 6/50
+95/95 [==============================] - 191s 2s/step - det_loss: 0.4789 - cls_loss: 0.2931 - box_loss: 0.0037 - reg_l2_loss: 0.0061 - loss: 0.4851 - learning_rate: 0.0775 - gradient_norm: 0.6490 - val_det_loss: 0.4696 - val_cls_loss: 0.2876 - val_box_loss: 0.0036 - val_reg_l2_loss: 0.0062 - val_loss: 0.4758
+Epoch 7/50
+95/95 [==============================] - 200s 2s/step - det_loss: 0.4853 - cls_loss: 0.2927 - box_loss: 0.0039 - reg_l2_loss: 0.0063 - loss: 0.4916 - learning_rate: 0.0766 - gradient_norm: 0.6534 - val_det_loss: 0.5093 - val_cls_loss: 0.3125 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0064 - val_loss: 0.5157
+Epoch 8/50
+95/95 [==============================] - 197s 2s/step - det_loss: 0.4680 - cls_loss: 0.2869 - box_loss: 0.0036 - reg_l2_loss: 0.0065 - loss: 0.4745 - learning_rate: 0.0755 - gradient_norm: 0.6095 - val_det_loss: 0.4862 - val_cls_loss: 0.3029 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0066 - val_loss: 0.4928
+Epoch 9/50
+95/95 [==============================] - 202s 2s/step - det_loss: 0.4634 - cls_loss: 0.2832 - box_loss: 0.0036 - reg_l2_loss: 0.0066 - loss: 0.4700 - learning_rate: 0.0742 - gradient_norm: 0.5757 - val_det_loss: 0.5078 - val_cls_loss: 0.2914 - val_box_loss: 0.0043 - val_reg_l2_loss: 0.0067 - val_loss: 0.5145
+Epoch 10/50
+95/95 [==============================] - 202s 2s/step - det_loss: 0.4629 - cls_loss: 0.2824 - box_loss: 0.0036 - reg_l2_loss: 0.0068 - loss: 0.4697 - learning_rate: 0.0728 - gradient_norm: 0.5909 - val_det_loss: 0.4870 - val_cls_loss: 0.3009 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0069 - val_loss: 0.4939
+Epoch 11/50
+95/95 [==============================] - 206s 2s/step - det_loss: 0.4563 - cls_loss: 0.2785 - box_loss: 0.0036 - reg_l2_loss: 0.0069 - loss: 0.4632 - learning_rate: 0.0713 - gradient_norm: 0.5917 - val_det_loss: 0.4758 - val_cls_loss: 0.2857 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0070 - val_loss: 0.4828
+Epoch 12/50
+95/95 [==============================] - 196s 2s/step - det_loss: 0.4502 - cls_loss: 0.2731 - box_loss: 0.0035 - reg_l2_loss: 0.0071 - loss: 0.4573 - learning_rate: 0.0696 - gradient_norm: 0.5768 - val_det_loss: 0.4532 - val_cls_loss: 0.2717 - val_box_loss: 0.0036 - val_reg_l2_loss: 0.0071 - val_loss: 0.4603
+Epoch 13/50
+95/95 [==============================] - 196s 2s/step - det_loss: 0.4517 - cls_loss: 0.2758 - box_loss: 0.0035 - reg_l2_loss: 0.0072 - loss: 0.4588 - learning_rate: 0.0678 - gradient_norm: 0.5612 - val_det_loss: 0.4995 - val_cls_loss: 0.3032 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0072 - val_loss: 0.5067
+Epoch 14/50
+95/95 [==============================] - 199s 2s/step - det_loss: 0.4414 - cls_loss: 0.2688 - box_loss: 0.0035 - reg_l2_loss: 0.0073 - loss: 0.4487 - learning_rate: 0.0659 - gradient_norm: 0.5711 - val_det_loss: 0.4535 - val_cls_loss: 0.2767 - val_box_loss: 0.0035 - val_reg_l2_loss: 0.0073 - val_loss: 0.4609
+Epoch 15/50
+95/95 [==============================] - 202s 2s/step - det_loss: 0.4434 - cls_loss: 0.2717 - box_loss: 0.0034 - reg_l2_loss: 0.0074 - loss: 0.4508 - learning_rate: 0.0639 - gradient_norm: 0.5576 - val_det_loss: 0.5247 - val_cls_loss: 0.2900 - val_box_loss: 0.0047 - val_reg_l2_loss: 0.0074 - val_loss: 0.5321
+Epoch 16/50
+95/95 [==============================] - 202s 2s/step - det_loss: 0.4374 - cls_loss: 0.2683 - box_loss: 0.0034 - reg_l2_loss: 0.0075 - loss: 0.4449 - learning_rate: 0.0618 - gradient_norm: 0.5565 - val_det_loss: 0.4769 - val_cls_loss: 0.2820 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0075 - val_loss: 0.4844
+Epoch 17/50
+95/95 [==============================] - 198s 2s/step - det_loss: 0.4377 - cls_loss: 0.2669 - box_loss: 0.0034 - reg_l2_loss: 0.0076 - loss: 0.4453 - learning_rate: 0.0596 - gradient_norm: 0.5667 - val_det_loss: 0.4953 - val_cls_loss: 0.2841 - val_box_loss: 0.0042 - val_reg_l2_loss: 0.0076 - val_loss: 0.5030
+Epoch 18/50
+95/95 [==============================] - 192s 2s/step - det_loss: 0.4381 - cls_loss: 0.2678 - box_loss: 0.0034 - reg_l2_loss: 0.0077 - loss: 0.4457 - learning_rate: 0.0574 - gradient_norm: 0.5586 - val_det_loss: 0.4624 - val_cls_loss: 0.2692 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0077 - val_loss: 0.4701
+Epoch 19/50
+95/95 [==============================] - 192s 2s/step - det_loss: 0.4275 - cls_loss: 0.2615 - box_loss: 0.0033 - reg_l2_loss: 0.0077 - loss: 0.4352 - learning_rate: 0.0550 - gradient_norm: 0.5281 - val_det_loss: 0.4738 - val_cls_loss: 0.2821 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0078 - val_loss: 0.4816
+Epoch 20/50
+95/95 [==============================] - 210s 2s/step - det_loss: 0.4261 - cls_loss: 0.2637 - box_loss: 0.0032 - reg_l2_loss: 0.0078 - loss: 0.4339 - learning_rate: 0.0526 - gradient_norm: 0.5169 - val_det_loss: 0.4603 - val_cls_loss: 0.2620 - val_box_loss: 0.0040 - val_reg_l2_loss: 0.0078 - val_loss: 0.4682
+Epoch 21/50
+95/95 [==============================] - 196s 2s/step - det_loss: 0.4188 - cls_loss: 0.2569 - box_loss: 0.0032 - reg_l2_loss: 0.0079 - loss: 0.4266 - learning_rate: 0.0501 - gradient_norm: 0.5296 - val_det_loss: 0.4555 - val_cls_loss: 0.2759 - val_box_loss: 0.0036 - val_reg_l2_loss: 0.0079 - val_loss: 0.4634
+Epoch 22/50
+95/95 [==============================] - 201s 2s/step - det_loss: 0.4237 - cls_loss: 0.2615 - box_loss: 0.0032 - reg_l2_loss: 0.0079 - loss: 0.4316 - learning_rate: 0.0476 - gradient_norm: 0.5180 - val_det_loss: 0.4784 - val_cls_loss: 0.2933 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0079 - val_loss: 0.4863
+Epoch 23/50
+95/95 [==============================] - 195s 2s/step - det_loss: 0.4211 - cls_loss: 0.2599 - box_loss: 0.0032 - reg_l2_loss: 0.0079 - loss: 0.4291 - learning_rate: 0.0451 - gradient_norm: 0.5228 - val_det_loss: 0.4931 - val_cls_loss: 0.2805 - val_box_loss: 0.0043 - val_reg_l2_loss: 0.0080 - val_loss: 0.5011
+Epoch 24/50
+95/95 [==============================] - 188s 2s/step - det_loss: 0.4189 - cls_loss: 0.2564 - box_loss: 0.0033 - reg_l2_loss: 0.0080 - loss: 0.4269 - learning_rate: 0.0426 - gradient_norm: 0.5302 - val_det_loss: 0.4364 - val_cls_loss: 0.2587 - val_box_loss: 0.0036 - val_reg_l2_loss: 0.0080 - val_loss: 0.4444
+Epoch 25/50
+95/95 [==============================] - 196s 2s/step - det_loss: 0.4145 - cls_loss: 0.2549 - box_loss: 0.0032 - reg_l2_loss: 0.0080 - loss: 0.4225 - learning_rate: 0.0400 - gradient_norm: 0.5450 - val_det_loss: 0.4842 - val_cls_loss: 0.2813 - val_box_loss: 0.0041 - val_reg_l2_loss: 0.0080 - val_loss: 0.4923
+Epoch 26/50
+95/95 [==============================] - 189s 2s/step - det_loss: 0.4082 - cls_loss: 0.2507 - box_loss: 0.0032 - reg_l2_loss: 0.0081 - loss: 0.4163 - learning_rate: 0.0374 - gradient_norm: 0.5355 - val_det_loss: 0.4676 - val_cls_loss: 0.2640 - val_box_loss: 0.0041 - val_reg_l2_loss: 0.0081 - val_loss: 0.4756
+Epoch 27/50
+95/95 [==============================] - 192s 2s/step - det_loss: 0.4131 - cls_loss: 0.2542 - box_loss: 0.0032 - reg_l2_loss: 0.0081 - loss: 0.4212 - learning_rate: 0.0349 - gradient_norm: 0.5161 - val_det_loss: 0.4470 - val_cls_loss: 0.2605 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0081 - val_loss: 0.4551
+Epoch 28/50
+95/95 [==============================] - 190s 2s/step - det_loss: 0.4117 - cls_loss: 0.2528 - box_loss: 0.0032 - reg_l2_loss: 0.0081 - loss: 0.4198 - learning_rate: 0.0324 - gradient_norm: 0.5286 - val_det_loss: 0.4439 - val_cls_loss: 0.2494 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0081 - val_loss: 0.4520
+Epoch 29/50
+95/95 [==============================] - 194s 2s/step - det_loss: 0.4100 - cls_loss: 0.2517 - box_loss: 0.0032 - reg_l2_loss: 0.0081 - loss: 0.4181 - learning_rate: 0.0299 - gradient_norm: 0.5190 - val_det_loss: 0.4511 - val_cls_loss: 0.2679 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0081 - val_loss: 0.4593
+Epoch 30/50
+95/95 [==============================] - 197s 2s/step - det_loss: 0.4090 - cls_loss: 0.2529 - box_loss: 0.0031 - reg_l2_loss: 0.0081 - loss: 0.4171 - learning_rate: 0.0274 - gradient_norm: 0.5220 - val_det_loss: 0.4641 - val_cls_loss: 0.2546 - val_box_loss: 0.0042 - val_reg_l2_loss: 0.0081 - val_loss: 0.4723
+Epoch 31/50
+95/95 [==============================] - 191s 2s/step - det_loss: 0.4055 - cls_loss: 0.2489 - box_loss: 0.0031 - reg_l2_loss: 0.0081 - loss: 0.4136 - learning_rate: 0.0250 - gradient_norm: 0.5068 - val_det_loss: 0.4771 - val_cls_loss: 0.2650 - val_box_loss: 0.0042 - val_reg_l2_loss: 0.0082 - val_loss: 0.4853
+Epoch 32/50
+95/95 [==============================] - 188s 2s/step - det_loss: 0.4008 - cls_loss: 0.2459 - box_loss: 0.0031 - reg_l2_loss: 0.0082 - loss: 0.4090 - learning_rate: 0.0226 - gradient_norm: 0.5150 - val_det_loss: 0.4829 - val_cls_loss: 0.2588 - val_box_loss: 0.0045 - val_reg_l2_loss: 0.0082 - val_loss: 0.4910
+Epoch 33/50
+95/95 [==============================] - 194s 2s/step - det_loss: 0.4000 - cls_loss: 0.2460 - box_loss: 0.0031 - reg_l2_loss: 0.0082 - loss: 0.4082 - learning_rate: 0.0204 - gradient_norm: 0.4935 - val_det_loss: 0.4469 - val_cls_loss: 0.2613 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0082 - val_loss: 0.4551
+Epoch 34/50
+95/95 [==============================] - 187s 2s/step - det_loss: 0.3963 - cls_loss: 0.2453 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.4045 - learning_rate: 0.0182 - gradient_norm: 0.5121 - val_det_loss: 0.4704 - val_cls_loss: 0.2562 - val_box_loss: 0.0043 - val_reg_l2_loss: 0.0082 - val_loss: 0.4786
+Epoch 35/50
+95/95 [==============================] - 193s 2s/step - det_loss: 0.4053 - cls_loss: 0.2497 - box_loss: 0.0031 - reg_l2_loss: 0.0082 - loss: 0.4135 - learning_rate: 0.0161 - gradient_norm: 0.5118 - val_det_loss: 0.4474 - val_cls_loss: 0.2525 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0082 - val_loss: 0.4556
+Epoch 36/50
+95/95 [==============================] - 190s 2s/step - det_loss: 0.3962 - cls_loss: 0.2456 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.4043 - learning_rate: 0.0141 - gradient_norm: 0.5155 - val_det_loss: 0.4368 - val_cls_loss: 0.2542 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0082 - val_loss: 0.4450
+Epoch 37/50
+95/95 [==============================] - 191s 2s/step - det_loss: 0.4000 - cls_loss: 0.2463 - box_loss: 0.0031 - reg_l2_loss: 0.0082 - loss: 0.4082 - learning_rate: 0.0122 - gradient_norm: 0.5113 - val_det_loss: 0.4415 - val_cls_loss: 0.2481 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0082 - val_loss: 0.4497
+Epoch 38/50
+95/95 [==============================] - 188s 2s/step - det_loss: 0.3895 - cls_loss: 0.2396 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.3977 - learning_rate: 0.0104 - gradient_norm: 0.4981 - val_det_loss: 0.4321 - val_cls_loss: 0.2502 - val_box_loss: 0.0036 - val_reg_l2_loss: 0.0082 - val_loss: 0.4403
+Epoch 39/50
+95/95 [==============================] - 194s 2s/step - det_loss: 0.3907 - cls_loss: 0.2407 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.3989 - learning_rate: 0.0087 - gradient_norm: 0.5032 - val_det_loss: 0.4252 - val_cls_loss: 0.2423 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0082 - val_loss: 0.4334
+Epoch 40/50
+95/95 [==============================] - 196s 2s/step - det_loss: 0.3949 - cls_loss: 0.2429 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.4030 - learning_rate: 0.0072 - gradient_norm: 0.4963 - val_det_loss: 0.4417 - val_cls_loss: 0.2521 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4499
+Epoch 41/50
+95/95 [==============================] - 186s 2s/step - det_loss: 0.3921 - cls_loss: 0.2406 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.4003 - learning_rate: 0.0058 - gradient_norm: 0.5029 - val_det_loss: 0.4350 - val_cls_loss: 0.2496 - val_box_loss: 0.0037 - val_reg_l2_loss: 0.0082 - val_loss: 0.4432
+Epoch 42/50
+95/95 [==============================] - 198s 2s/step - det_loss: 0.3913 - cls_loss: 0.2409 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.3995 - learning_rate: 0.0045 - gradient_norm: 0.4944 - val_det_loss: 0.4386 - val_cls_loss: 0.2482 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4468
+Epoch 43/50
+95/95 [==============================] - 191s 2s/step - det_loss: 0.3923 - cls_loss: 0.2432 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.4005 - learning_rate: 0.0034 - gradient_norm: 0.5069 - val_det_loss: 0.4422 - val_cls_loss: 0.2479 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0082 - val_loss: 0.4504
+Epoch 44/50
+95/95 [==============================] - 196s 2s/step - det_loss: 0.3880 - cls_loss: 0.2401 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.3962 - learning_rate: 0.0025 - gradient_norm: 0.4946 - val_det_loss: 0.4366 - val_cls_loss: 0.2487 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4448
+Epoch 45/50
+95/95 [==============================] - 193s 2s/step - det_loss: 0.3893 - cls_loss: 0.2408 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.3975 - learning_rate: 0.0017 - gradient_norm: 0.4967 - val_det_loss: 0.4387 - val_cls_loss: 0.2469 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4469
+Epoch 46/50
+95/95 [==============================] - 192s 2s/step - det_loss: 0.3893 - cls_loss: 0.2404 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.3974 - learning_rate: 0.0010 - gradient_norm: 0.4952 - val_det_loss: 0.4431 - val_cls_loss: 0.2484 - val_box_loss: 0.0039 - val_reg_l2_loss: 0.0082 - val_loss: 0.4513
+Epoch 47/50
+95/95 [==============================] - 189s 2s/step - det_loss: 0.3859 - cls_loss: 0.2384 - box_loss: 0.0029 - reg_l2_loss: 0.0082 - loss: 0.3940 - learning_rate: 5.1967e-04 - gradient_norm: 0.4960 - val_det_loss: 0.4392 - val_cls_loss: 0.2481 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4473
+Epoch 48/50
+95/95 [==============================] - 192s 2s/step - det_loss: 0.3854 - cls_loss: 0.2388 - box_loss: 0.0029 - reg_l2_loss: 0.0082 - loss: 0.3936 - learning_rate: 1.9182e-04 - gradient_norm: 0.4956 - val_det_loss: 0.4402 - val_cls_loss: 0.2481 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4483
+Epoch 49/50
+95/95 [==============================] - 191s 2s/step - det_loss: 0.3844 - cls_loss: 0.2388 - box_loss: 0.0029 - reg_l2_loss: 0.0082 - loss: 0.3925 - learning_rate: 2.7543e-05 - gradient_norm: 0.4843 - val_det_loss: 0.4415 - val_cls_loss: 0.2490 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4496
+Epoch 50/50
+95/95 [==============================] - 199s 2s/step - det_loss: 0.3878 - cls_loss: 0.2400 - box_loss: 0.0030 - reg_l2_loss: 0.0082 - loss: 0.3960 - learning_rate: 2.7525e-05 - gradient_norm: 0.4912 - val_det_loss: 0.4406 - val_cls_loss: 0.2486 - val_box_loss: 0.0038 - val_reg_l2_loss: 0.0082 - val_loss: 0.4488
